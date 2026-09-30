@@ -1,0 +1,10 @@
+{
+  "description": "Connects Nigerian users with verified local service providers for instant booking, secure payments, real-time tracking, and transparent pricing across Lagos and Abuja.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
